@@ -1,0 +1,21 @@
+.post{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width:40%; 
+    margin:5%; 
+    transition: 0.3s;
+    border-radius: 5px; /* 5px rounded corners */
+    flex-direction: column;
+}
+
+.body_post{
+
+    padding: 2px 16px;
+
+}
+
+img{
+
+width: 100%; 
+height: 30%;
+border-radius: 5px 5px 0 0;
+}
